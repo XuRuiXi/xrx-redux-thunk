@@ -1,6 +1,6 @@
 {
   "name": "xrx-redux-thunk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "个人模仿的redux-thunk",
   "main": "lib/index.js",
   "types": "./index.d.ts",
